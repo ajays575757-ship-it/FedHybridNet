@@ -197,6 +197,12 @@ tqdm>=4.64.0
 
 
 **Project Structure**
+## Notebooks
+
+| Notebook | Description |
+|----------|-------------|
+| FedHybridNet_Main_Experiments.ipynb | Original experiments: preprocessing, feature extraction, model training, federated learning, Grad-CAM, TFLite deployment |
+| FedHybridNet_Revision_Experiments.ipynb | Revision experiments: Federated SVM, Gaussian noise sensitivity, non-IID multi-seed, client data breakdown |
 
 FedHybridNet/
 
